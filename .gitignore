@@ -1,0 +1,5 @@
+#suppress paper folders
+papers/solar.pdf
+
+#wild card 
+*.pdf
