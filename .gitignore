@@ -3,3 +3,6 @@ papers/solar.pdf
 
 #wild card 
 *.pdf
+
+#Suppress new file
+../basilisk.dat
